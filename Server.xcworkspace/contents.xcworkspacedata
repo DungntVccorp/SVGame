@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:TcpConnection/TcpConnection.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ConnectServer/ConnectServer.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:GameServer/GameServer.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:DataServer/DataServer.xcodeproj">
+   </FileRef>
+</Workspace>
